@@ -29,7 +29,7 @@ type: about
 
 # Resume 
 <p> You can click the link below to head to my resume: </p>
-[Click here for my Resume](http://www.google.com)
+[Click here for my Resume](/resume/2018/02/08/resume/)
 
 # Personal Projects 
 <p> You can click the link below to go to the projects category: </p>
